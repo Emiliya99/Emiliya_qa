@@ -11,3 +11,7 @@
 ---
 
 [Пример моего тест плана](https://docs.google.com/document/d/1ffjs11NcELRo8HoutU1b-zyiKGeKu6yF/edit?usp=sharing&ouid=114195792265964459856&rtpof=true&sd=true)
+
+---
+
+[Пример использования основных команд Git](https://docs.google.com/document/d/1HXFAzgMjj8B6h-wdl1ShdC_yyvXF5u37/edit?usp=sharing&ouid=114195792265964459856&rtpof=true&sd=true)
