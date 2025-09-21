@@ -1,8 +1,8 @@
-[Пример тест-кейсов по генератору паролей и сайту hh.ru](https://docs.google.com/spreadsheets/d/1l8qISAFS1Qo0IZqtEHDOQd6FY8ddh916/edit?usp=sharing&ouid=114195792265964459856&rtpof=true&sd=true)
+[Автоматизация тестирования с помощью Selenium и Python](https://github.com/Emiliya99/auto_tests_selenium.git)
 
 ---
 
-[Пример тестового задания](https://docs.google.com/spreadsheets/d/1avfHYGdpYUCAI3HL5S6Tuni4xYTwOMpDMQHvr7c68cY/edit?usp=sharing)
+[Пример тест-кейсов по генератору паролей и сайту hh.ru](https://docs.google.com/spreadsheets/d/1l8qISAFS1Qo0IZqtEHDOQd6FY8ddh916/edit?usp=sharing&ouid=114195792265964459856&rtpof=true&sd=true)
 
 ---
 
@@ -14,8 +14,4 @@
 
 ---
 
-[Пример использования основных команд Git](https://docs.google.com/document/d/1HXFAzgMjj8B6h-wdl1ShdC_yyvXF5u37/edit?usp=sharing&ouid=114195792265964459856&rtpof=true&sd=true)
-
----
-
-[Автоматизация тестирования с помощью Selenium и Python](https://github.com/Emiliya99/auto_tests_selenium.git)
+[Пример тестового задания](https://docs.google.com/spreadsheets/d/1avfHYGdpYUCAI3HL5S6Tuni4xYTwOMpDMQHvr7c68cY/edit?usp=sharing)
