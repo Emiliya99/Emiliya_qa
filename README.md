@@ -1,4 +1,8 @@
-[Автоматизация тестирования с помощью Selenium и Python](https://github.com/Emiliya99/auto_tests_selenium.git)
+[Автоматизация тестирования с помощью Selenium и Pytest](https://github.com/Emiliya99/auto_tests_selenium.git)
+
+---
+
+[Автоматизация тестирования API с помощью Requests и Pytest](https://github.com/Emiliya99/ozon_test.git)
 
 ---
 
